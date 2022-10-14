@@ -1,0 +1,36 @@
+[debug] [2022-10-14T09:24:23.861Z] ----------------------------------------------------------------------
+[debug] [2022-10-14T09:24:23.865Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-14T09:24:23.866Z] CLI Version:   11.14.3
+[debug] [2022-10-14T09:24:23.866Z] Platform:      win32
+[debug] [2022-10-14T09:24:23.866Z] Node Version:  v16.15.1
+[debug] [2022-10-14T09:24:23.867Z] Time:          Fri Oct 14 2022 14:54:23 GMT+0530 (India Standard Time)
+[debug] [2022-10-14T09:24:23.867Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-14T09:24:23.875Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-14T09:24:23.876Z] > authorizing via signed-in user (piyush1871b@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\User\Desktop\React\netflix-react-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-10-14T09:24:44.998Z] > refreshing access token with scopes: []
+[debug] [2022-10-14T09:24:45.001Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2022-10-14T09:24:45.001Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2022-10-14T09:24:45.314Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2022-10-14T09:24:45.314Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2022-10-14T09:24:45.328Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-10-14T09:24:46.198Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-10-14T09:24:46.199Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
