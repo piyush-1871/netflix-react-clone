@@ -2,6 +2,9 @@
 
 Open [https://netflix-clone-55e8b.web.app/](https://netflix-clone-55e8b.web.app/) to view in browser.
 
+# API USED
+
+TMDB
 
 # Getting Started with Create React App
 
